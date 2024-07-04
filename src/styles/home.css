@@ -112,3 +112,13 @@
 .sign-in-button button:hover {
   opacity: 0.9;
 }
+@media (min-width: 768px) {
+  .container {
+  width: 100%;
+  height: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+padding:4rem 2rem;
+  background-color: #fff;
+}
+  }
